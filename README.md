@@ -3,10 +3,15 @@ Figure out gender ratio from an array of given names
 
 
 Instructions for getting a csv file of all your LinkedIn contacts:
+
 Export LinkedIn connections (https://www.linkedin.com/people/export-settings)
+
 Import the file into a Google Sheet
+
 Delete everything but the first name field ("Given Name")
+
 Export the sheet as a csv, named mycontacts.csv
+
 
 If you're on a Mac, you may need to change the formatting slightly:
 
